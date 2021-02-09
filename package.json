@@ -1,0 +1,22 @@
+{
+  "name": "node-multithread-example",
+  "version": "1.0.0",
+  "description": "To check multithreading functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supuni9622/Node-Multithread-Example.git"
+  },
+  "author": "Supuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supuni9622/Node-Multithread-Example/issues"
+  },
+  "homepage": "https://github.com/supuni9622/Node-Multithread-Example#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
